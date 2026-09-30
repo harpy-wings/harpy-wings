@@ -1,13 +1,9 @@
 <div align="center">
 
-# Hamid Reza Hassani Yaqoti
-
 ### Blockchain Expert · Senior Backend Engineer · Software Architect · Technical Lead
 
 *I design and ship resilient, high-throughput distributed systems — where correctness, low latency, and operational clarity are non-negotiable.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamid-reza-hassani-yaqoti/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harpy-wings)
 
 </div>
 
@@ -143,23 +139,6 @@ Configurable genetic algorithm framework in pure Go — custom cost functions, p
 | **Senior Golang Developer & Tech Lead** | SixSigmaSports | Real-time ledger, chain-of-trust audit layer, shared Go libraries |
 | **Principal Cloud Engineer / Backend Lead** | KRM-Venture | recoverit.app US launch, 10K+ concurrent sessions, Redis hot-path caching |
 
----
-
-## 🎓 Education
-
-**M.Sc. Mechanical Engineering** — Ferdowsi University of Mashhad *(Robotics & Algorithms)*  
-**B.Sc. Manufacturing Engineering** — Shahid Rajaee Teacher Training University *(Data Acquisition)*
-
----
-
-## 🤝 Let's Connect
-
-I'm actively exploring **Blockchain Expert**, **Senior Backend Engineer**, **Software Architect**, and **Technical Lead** opportunities with teams building serious distributed systems — fintech, Web3 infrastructure, or high-scale cloud backends.
-
-If you're hiring, scaling a platform, or need an architect who still ships production Go — I'd love to hear from you.
-
-💼 [linkedin.com/in/hamid-reza-hassani-yaqoti](https://www.linkedin.com/in/hamid-reza-hassani-yaqoti/)  
-🐙 [github.com/harpy-wings](https://github.com/harpy-wings)
 
 ---
 
